@@ -18,3 +18,10 @@ pip3 install requests bs4
 This will install the modules that make requests to the website and parse html documents, respectively.
 
 Once that is done, download mokuro_downloader.py from this directory and put it in the folder where you would like your manga to be downloaded to and run it. The actual usage of the script is intuitive.
+
+
+https://github.com/user-attachments/assets/0966b564-eaab-4c2c-97f1-8d28457f5983
+
+# Final comments
+
+I am a beginner information systems student with no real experience in software development. This was my first project, so there are probably various issues I'm not aware of with the code, so I'd be more than happy to hear what you think about it and what I can do to improve in the future. 
