@@ -22,6 +22,9 @@ Once that is done, download mokuro_downloader.py from this directory and put it 
 
 https://github.com/user-attachments/assets/0966b564-eaab-4c2c-97f1-8d28457f5983
 
+# Heads-up
+The script functions on the assumption that volume folders never have sub-directories. If, for some reason, that is not the case for a certain volume in the repository, the program will not work as expected. I could implement a solution for that, but, as far as I know, all of them have only the image files for the volume. Of course, I could be wrong, so please let me know if I do need to improve the script.
+
 # Final comments
 
-I am a beginner information systems student with no real experience in software development. This was my first project, so there are probably various issues I'm not aware of with the code, so I'd be more than happy to hear what you think about it and what I can do to improve in the future. 
+I am a beginner information systems student with no real experience in software development. This was my first project, so there are probably various issues I'm not aware of within the code, so I'd be more than happy to hear what you think about it and what I can do to improve in the future. 
